@@ -46,7 +46,9 @@ Creates a **Vite + React + TypeScript** project and applies a custom setup on to
 - `vite-plugin-svgr` (SVG as React components)
 - `@vitejs/plugin-react`
 
----
+## Usage
+
+`create-vite-app | newvite | nv <app-name> [path]`
 
 ## Notes
 
